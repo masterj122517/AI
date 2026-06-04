@@ -1,0 +1,15 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-o",
+      "build/transformer",
+      "src/main.c"
+    ],
+    "directory": "/Users/masterj/programming/AI/learn_something/transformer",
+    "output": "build/transformer"
+  }
+]
